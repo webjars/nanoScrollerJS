@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>nanoScrollerJS</artifactId>
-    <version>0.7.5</version>
+    <version>0.7.6-SNAPSHOT</version>
     <name>nanoScrollerJS</name>
     <description>WebJar for nanoScrollerJS</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/nanoScrollerJS</url>
         <connection>scm:git:https://github.com/webjars/nanoScrollerJS.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/nanoScrollerJS.git</developerConnection>
-        <tag>0.7.5</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
